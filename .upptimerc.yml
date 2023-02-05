@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Thomas Moser's **Upptime** monitor and status page, powered entirely by GitHub."
+  introTitle: "Thomas Moser's **Upptime**"
   introMessage: Uptime monitor and status page, powered entirely by GitHub.
   navbar:
     - title: Status

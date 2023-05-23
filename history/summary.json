@@ -22,19 +22,19 @@
     "url": "https://snake.lifeofthomas.com",
     "icon": "https://icons.duckduckgo.com/ip3/snake.lifeofthomas.com.ico",
     "slug": "snake-lifeofthomas-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 112,
-    "timeWeek": 212,
-    "timeMonth": 204,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 219,
+    "timeDay": 151,
+    "timeWeek": 209,
+    "timeMonth": 203,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-05-23": 0
+      "2023-05-23": 11
     }
   }
 ]

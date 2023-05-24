@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 157,
-    "timeWeek": 212,
-    "timeMonth": 201,
-    "timeYear": 197,
+    "time": 198,
+    "timeDay": 251,
+    "timeWeek": 225,
+    "timeMonth": 202,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/snake.lifeofthomas.com.ico",
     "slug": "snake-lifeofthomas-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 151,
-    "timeWeek": 209,
-    "timeMonth": 203,
-    "timeYear": 219,
-    "dailyMinutesDown": {
-      "2023-05-23": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 230,
+    "timeWeek": 222,
+    "timeMonth": 205,
+    "timeYear": 220,
+    "dailyMinutesDown": {}
   }
 ]

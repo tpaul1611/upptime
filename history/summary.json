@@ -4,19 +4,19 @@
     "url": "https://www.lifeofthomas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lifeofthomas.com.ico",
     "slug": "lifeofthomas-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "83.82%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.96%",
     "time": 222,
-    "timeDay": 208,
-    "timeWeek": 247,
+    "timeDay": 212,
+    "timeWeek": 243,
     "timeMonth": 201,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 233
     }
   },
   {

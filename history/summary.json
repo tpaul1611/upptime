@@ -4,7 +4,7 @@
     "url": "https://www.lifeofthomas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lifeofthomas.com.ico",
     "slug": "lifeofthomas-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 247,
     "timeMonth": 201,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "snake.lifeofthomas.com",

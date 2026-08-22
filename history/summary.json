@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 202,
-    "timeDay": 113,
-    "timeWeek": 147,
-    "timeMonth": 166,
+    "timeDay": 247,
+    "timeWeek": 159,
+    "timeMonth": 168,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2025-08-22": 233
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "snake.lifeofthomas.com",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 157,
-    "timeWeek": 207,
-    "timeMonth": 231,
-    "timeYear": 237,
+    "time": 233,
+    "timeDay": 279,
+    "timeWeek": 209,
+    "timeMonth": 232,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
